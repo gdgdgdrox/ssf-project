@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-image: url(../images/planet-earth-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: auto;
+    height: 100vh;
+}
+
+.list-group-item{
+    font-weight: 500;
+    padding: 10px 20px;
+}
+
+.theform {
+    width: 30%;
+    margin: auto;
+    position: relative;
+    left: 65px;
+    /* top: 20px; */
+}
+
+#card{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    top: 10px;
+}
+
+h5 {
+    color: #2F4F4F;
+    font-style:italic;
+}
+
+.card-link{
+    text-decoration: none;
+}
+
+.button{
+    position: absolute;
+    top: 230px;
+    left: 820px;
+}

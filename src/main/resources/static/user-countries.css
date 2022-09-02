@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-image: url(../images/planet-earth-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: auto;
+}
+
+.welcome {
+    color: white;
+    text-align: center;
+}
+
+#card{
+    width: 70%;
+    margin: auto;
+}
+
+.list-group-item{
+    font-weight: 500;
+    font-size: small;
+}
+
+.card-link{
+    text-decoration: none;
+}
+
+.card-footer{
+    font-size: small;
+}
+
+.btn {
+    font-size: small;
+}

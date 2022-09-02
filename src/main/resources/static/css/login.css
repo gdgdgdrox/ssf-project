@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+.bg-img {
+    background-image: url("../images/planet-earth-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+form{
+    width: 20%;
+    margin: auto;
+    position: relative;
+    top: 20%;
+}
